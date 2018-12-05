@@ -307,7 +307,7 @@ Public Class RCType
         bFilterEnable = True
         nTempValue = 31
         bHighSpeed = True
-        bLDO17 = True
+        bLDO17 = False
         nDriveSpeed = 3
         nIRef = 1
         b150K = True

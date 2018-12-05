@@ -6,13 +6,14 @@
 '0.5 增加温度校准调试位 14/9/28
 '0.6 部分调试选项固定 14/10/11
 '1.0 正式版释放 14/11/13
+'1.1 修改bLDO17(HIRC电压选择为)默认值为False 18/12/5
 
 
 Public NotInheritable Class About_nologo
 
     Private Sub About_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-        Dim Version As String = "V1.0"
-        Dim day As String = "2014/11/13"
+        Dim Version As String = "V1.1"
+        Dim day As String = "2018/12/5"
         lblInfo.Text = _
             "软件名:   RCDIY2" & vbCr & _
             "版本:     " & Version & vbCr & _
