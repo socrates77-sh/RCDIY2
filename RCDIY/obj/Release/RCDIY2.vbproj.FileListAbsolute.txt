@@ -1,0 +1,14 @@
+D:\work\tool\RCDIY2\RCDIY\obj\Release\RCDIY2.exe
+D:\work\tool\RCDIY2\RCDIY\obj\Release\RCDIY2.xml
+D:\work\tool\RCDIY2\RCDIY\obj\Release\RCDIY2.pdb
+D:\work\tool\RCDIY2\RCDIY\bin\Release\RCDIY2.exe.manifest
+D:\work\tool\RCDIY2\RCDIY\bin\Release\RCDIY2.application
+D:\work\tool\RCDIY2\RCDIY\bin\Release\RCDIY2.exe
+D:\work\tool\RCDIY2\RCDIY\bin\Release\RCDIY2.pdb
+D:\work\tool\RCDIY2\RCDIY\bin\Release\RCDIY2.xml
+D:\work\tool\RCDIY2\RCDIY\obj\Release\RCDIY2.About_nologo.resources
+D:\work\tool\RCDIY2\RCDIY\obj\Release\RCDIY2.Resources.resources
+D:\work\tool\RCDIY2\RCDIY\obj\Release\RCDIY2.myMain.resources
+D:\work\tool\RCDIY2\RCDIY\obj\Release\RCDIY2.vbproj.GenerateResource.Cache
+D:\work\tool\RCDIY2\RCDIY\obj\Release\RCDIY2.exe.manifest
+D:\work\tool\RCDIY2\RCDIY\obj\Release\RCDIY2.application

@@ -1,0 +1,696 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RCDIY
+</name>
+</assembly>
+<members>
+<member name="P:RCDIY.My.Resources.Resources.ResourceManager">
+	<summary>
+  返回此类使用的缓存 ResourceManager 实例。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.Culture">
+	<summary>
+  为使用此强类型资源类的所有资源查找
+  重写当前线程的 CurrentUICulture 属性。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.btnImportKeyboard">
+	<summary>
+  查找类似 Import Keyboard Data From RCT File 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.btnImportKeyboard_cn">
+	<summary>
+  查找类似 从RCT文件导入键盘数据 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.ckbBit1Option">
+	<summary>
+  查找类似 C1=1, if data1&lt;=0x3F C1=0, if data1&gt;0x3F 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.ckbBit1Option_cn">
+	<summary>
+  查找类似 如果data1&lt;=0x3F, 则C1=1 如果data1&gt;0x3F,  则C1=0 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.ckbBootCode">
+	<summary>
+  查找类似 With Boot Code 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.ckbBootCode_cn">
+	<summary>
+  查找类似 有引导码 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.ckbRevertBit">
+	<summary>
+  查找类似 With Revert Bit 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.ckbRevertBit_cn">
+	<summary>
+  查找类似 有反转位 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.grpBoot">
+	<summary>
+  查找类似 Boot Frame 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.grpBoot_cn">
+	<summary>
+  查找类似 引导帧 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.grpCarrier">
+	<summary>
+  查找类似 Carrier Option 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.grpCarrier_cn">
+	<summary>
+  查找类似 载波设置 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.grpDataDir">
+	<summary>
+  查找类似 Data Send Direction 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.grpDataDir_cn">
+	<summary>
+  查找类似 数据发送方向 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.grpGlobal">
+	<summary>
+  查找类似 Global Format Option 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.grpGlobal_cn">
+	<summary>
+  查找类似 通用编码属性 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.grpIROUT">
+	<summary>
+  查找类似 IROUT Drive 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.grpIROUT_cn">
+	<summary>
+  查找类似 IROUT驱动 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.grpKey">
+	<summary>
+  查找类似 Key Option 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.grpKey_cn">
+	<summary>
+  查找类似 按键选项 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.grpLED">
+	<summary>
+  查找类似 LED Drive 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.grpLED_cn">
+	<summary>
+  查找类似 LED驱动 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.grpLogic0">
+	<summary>
+  查找类似 Logic 0 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.grpLogic0_cn">
+	<summary>
+  查找类似 逻辑0设置 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.grpLogic1">
+	<summary>
+  查找类似 Logic 1 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.grpLogic1_cn">
+	<summary>
+  查找类似 逻辑1设置 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblBit1Option">
+	<summary>
+  查找类似 Bit1 Option 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblBit1Option_cn">
+	<summary>
+  查找类似 Bit1选项 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblCarrierFreq">
+	<summary>
+  查找类似 Carrier Freq.(KHz) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblCarrierFreq_cn">
+	<summary>
+  查找类似 载波频率(KHz) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblChecksum">
+	<summary>
+  查找类似 Checksum 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblChecksum_cn">
+	<summary>
+  查找类似 校验和值 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblDataCode1Bits">
+	<summary>
+  查找类似 Bits 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblDataCode1Bits_cn">
+	<summary>
+  查找类似 位数 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblDebounce">
+	<summary>
+  查找类似 Debounce Time(s) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblDebounce_cn">
+	<summary>
+  查找类似 按键去抖时间(s) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblDuty">
+	<summary>
+  查找类似 Duty 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblDuty_cn">
+	<summary>
+  查找类似 载波占空比 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblInvalidKey">
+	<summary>
+  查找类似 Invalid Key Code(HEX) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblInvalidKey_cn">
+	<summary>
+  查找类似 无效按键编码(HEX) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblIRCurrent">
+	<summary>
+  查找类似 IROUT Current 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblIRCurrent_cn">
+	<summary>
+  查找类似 IROUT驱动电流 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblKeyRemain">
+	<summary>
+  查找类似 Key Remain Time(s) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblKeyRemain_cn">
+	<summary>
+  查找类似 按键持续发码时间(s) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblLEDCurrent">
+	<summary>
+  查找类似 LED Current 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblLEDCurrent_cn">
+	<summary>
+  查找类似 LED驱动电流 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblLevelHigh">
+	<summary>
+  查找类似 Level High(us) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblLevelHigh_cn">
+	<summary>
+  查找类似 高电平时间(us) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblLevelLow">
+	<summary>
+  查找类似 Level Low(us) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblLevelLow_cn">
+	<summary>
+  查找类似 低电平时间(us) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblPosition">
+	<summary>
+  查找类似 Position 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblPosition_cn">
+	<summary>
+  查找类似 位置 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblScanInterval">
+	<summary>
+  查找类似 Scan Interval 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblScanInterval_cn">
+	<summary>
+  查找类似 按键扫描间隔 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblStopTime">
+	<summary>
+  查找类似 Stop Time (us) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblStopTime_cn">
+	<summary>
+  查找类似 停止时间(us) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblUserBits">
+	<summary>
+  查找类似 Bits 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblUserBits_cn">
+	<summary>
+  查找类似 位数 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblUserCode">
+	<summary>
+  查找类似 User Code 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.lblUserCode_cn">
+	<summary>
+  查找类似 用户码 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuFile">
+	<summary>
+  查找类似 &amp;File 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuFile_cn">
+	<summary>
+  查找类似 文件(&amp;F) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuFileExit">
+	<summary>
+  查找类似 E&amp;xit 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuFileExit_cn">
+	<summary>
+  查找类似 退出(&amp;X) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuFileNew">
+	<summary>
+  查找类似 &amp;New 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuFileNew_cn">
+	<summary>
+  查找类似 新建(&amp;N) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuFileOpen">
+	<summary>
+  查找类似 &amp;Open 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuFileOpen_cn">
+	<summary>
+  查找类似 打开(&amp;O) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuFileSave">
+	<summary>
+  查找类似 &amp;Save 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuFileSave_cn">
+	<summary>
+  查找类似 保存(&amp;S) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuFileSaveAs">
+	<summary>
+  查找类似 Save &amp;As ... 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuFileSaveAs_cn">
+	<summary>
+  查找类似 另存为(&amp;A) ... 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuHelp">
+	<summary>
+  查找类似 &amp;Help 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuHelp_cn">
+	<summary>
+  查找类似 帮助(H) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuHelpAbout">
+	<summary>
+  查找类似 About 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuHelpAbout_cn">
+	<summary>
+  查找类似 关于 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuLangChinese">
+	<summary>
+  查找类似 &amp;Chinese 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuLangChinese_cn">
+	<summary>
+  查找类似 简体中文(&amp;C) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuLangEnglish">
+	<summary>
+  查找类似 &amp;English 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuLangEnglish_cn">
+	<summary>
+  查找类似 英语(&amp;E) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuLanguage">
+	<summary>
+  查找类似 &amp;Language 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuLanguage_cn">
+	<summary>
+  查找类似 语言(&amp;L) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuTool">
+	<summary>
+  查找类似 &amp;Tool 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuTool_cn">
+	<summary>
+  查找类似 工具(&amp;T) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuToolExportS19">
+	<summary>
+  查找类似 Export to S19 File 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuToolExportS19_cn">
+	<summary>
+  查找类似 导出S19文件 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuToolImportKeyboard">
+	<summary>
+  查找类似 Import Keyboard 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuToolImportKeyboard_cn">
+	<summary>
+  查找类似 导入键盘数据 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuToolImportS19">
+	<summary>
+  查找类似 Import from S19 File 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuToolImportS19_cn">
+	<summary>
+  查找类似 导入S19文件 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuWave">
+	<summary>
+  查找类似 &amp;Wave 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.mnuWave_cn">
+	<summary>
+  查找类似 波形(&amp;W) 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radChecksum">
+	<summary>
+  查找类似 8-bit Checksum 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radChecksum_cn">
+	<summary>
+  查找类似 8位校验和 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radCompact">
+	<summary>
+  查找类似 Compact Repeat 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radCompact_cn">
+	<summary>
+  查找类似 简单重复码 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radComplete">
+	<summary>
+  查找类似 Complete Repeat 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radComplete_cn">
+	<summary>
+  查找类似 完全重复码 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radData1Repeat">
+	<summary>
+  查找类似 Data Code 1 no change 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radData1Repeat_cn">
+	<summary>
+  查找类似 重复码输出数据码1的原码 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radData1Revert">
+	<summary>
+  查找类似 Data Code 1 revert 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radData1Revert_cn">
+	<summary>
+  查找类似 重复码输出数据码1交替取反 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radHighBitFirst">
+	<summary>
+  查找类似 High Bit First 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radHighBitFirst_cn">
+	<summary>
+  查找类似 先高位后低位 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radHighToLow">
+	<summary>
+  查找类似 High to Low 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radHighToLow_cn">
+	<summary>
+  查找类似 先高后低 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radHL0">
+	<summary>
+  查找类似 High + Low + 0 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radHL0_cn">
+	<summary>
+  查找类似 高电平 + 低电平 + 0 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radHL01">
+	<summary>
+  查找类似 High + Low + 01 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radHL01_cn">
+	<summary>
+  查找类似 高电平 + 低电平 + 01 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radHL11">
+	<summary>
+  查找类似 High + Low + 11 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radHL11_cn">
+	<summary>
+  查找类似 高电平 + 低电平 + 11 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radHtoL_Stop">
+	<summary>
+  查找类似 High to Low 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radHtoL_Stop_cn">
+	<summary>
+  查找类似 先高电平后低电平 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radLowBitFirst">
+	<summary>
+  查找类似 Low Bit First 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radLowBitFirst_cn">
+	<summary>
+  查找类似 先低位后高位 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radLowToHigh">
+	<summary>
+  查找类似 Low to High 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radLowToHigh_cn">
+	<summary>
+  查找类似 先低后高 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radLtoH_Stop">
+	<summary>
+  查找类似 Low to High 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radLtoH_Stop_cn">
+	<summary>
+  查找类似 先低电平后高电平 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radRevertCode1">
+	<summary>
+  查找类似 Revert Data Code 1 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radRevertCode1_cn">
+	<summary>
+  查找类似 数据码1的反码 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radScanCont">
+	<summary>
+  查找类似 Scan Key Continuously 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radScanCont_cn">
+	<summary>
+  查找类似 结束码期间按键持续扫描 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radScanOneTime">
+	<summary>
+  查找类似 Scan Key One Time 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.radScanOneTime_cn">
+	<summary>
+  查找类似 结束码期间按键扫描1次 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.tabFrame">
+	<summary>
+  查找类似 Frame Configration 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.tabFrame_cn">
+	<summary>
+  查找类似 发码帧配置 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.tabSetting0">
+	<summary>
+  查找类似 Format Setting 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.tabSetting0_cn">
+	<summary>
+  查找类似 格式设置 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.tabSetting1">
+	<summary>
+  查找类似 Key Setting 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.tabSetting1_cn">
+	<summary>
+  查找类似 按键设置 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.tabSetting2">
+	<summary>
+  查找类似 Information 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.tabSetting2_cn">
+	<summary>
+  查找类似 信息 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.Title">
+	<summary>
+  查找类似 Remote Controller DIY 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.Title_cn">
+	<summary>
+  查找类似 遥控器DIY 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.tolFit">
+	<summary>
+  查找类似 Fit 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.tolFit_cn">
+	<summary>
+  查找类似 显示全部 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.tolZoomIn">
+	<summary>
+  查找类似 Zoom In 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.tolZoomIn_cn">
+	<summary>
+  查找类似 放大 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.tolZoomOut">
+	<summary>
+  查找类似 Zoom Out  的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.tolZoomOut_cn">
+	<summary>
+  查找类似 缩小 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameBoot">
+	<summary>
+  查找类似 Boot Frame 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameBoot_cn">
+	<summary>
+  查找类似 引导帧 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameCompactRepeat">
+	<summary>
+  查找类似 Compact Repeat Code 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameCompactRepeat_cn">
+	<summary>
+  查找类似 简单重复码 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameCompleteRepeat">
+	<summary>
+  查找类似 Complete Repeat Code 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameCompleteRepeat_cn">
+	<summary>
+  查找类似 完全重复码 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameData">
+	<summary>
+  查找类似 Data Frame 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameData_cn">
+	<summary>
+  查找类似 数据帧 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameDataCode1">
+	<summary>
+  查找类似 Data Code 1 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameDataCode1_cn">
+	<summary>
+  查找类似 数据码1 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameDataCode2">
+	<summary>
+  查找类似 Data Code 2 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameDataCode2_cn">
+	<summary>
+  查找类似 数据码2 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameRepeat">
+	<summary>
+  查找类似 Repeat Frame 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameRepeat_cn">
+	<summary>
+  查找类似 重复帧 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameSplit">
+	<summary>
+  查找类似 Split Frame 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameSplit_cn">
+	<summary>
+  查找类似 分割帧 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameStop">
+	<summary>
+  查找类似 Stop Frame 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameStop_cn">
+	<summary>
+  查找类似 结束帧 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameStopBit">
+	<summary>
+  查找类似 Stop Bit 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameStopBit_cn">
+	<summary>
+  查找类似 停止位 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameStopCode">
+	<summary>
+  查找类似 Stop Time 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameStopCode_cn">
+	<summary>
+  查找类似 停止码 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameUser">
+	<summary>
+  查找类似 User Frame 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameUser_cn">
+	<summary>
+  查找类似 用户帧 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameUserCode2">
+	<summary>
+  查找类似 User Code 2 的本地化字符串。
+</summary>
+</member><member name="P:RCDIY.My.Resources.Resources.trvFrameUserCode2_cn">
+	<summary>
+  查找类似 用户码2 的本地化字符串。
+</summary>
+</member><member name="T:RCDIY.My.Resources.Resources">
+	<summary>
+  强类型资源类，用于查找本地化字符串等。
+</summary>
+</member>
+</members>
+</doc>
